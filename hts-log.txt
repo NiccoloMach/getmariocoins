@@ -1,0 +1,21 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 26 Jan 2017 23:18:54 at http://69662.getmariocoins.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://69662.getmariocoins.com/ -O1 "C:\My Web Sites\GetMarioCoins LP 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.eot (from 69662.getmariocoins.com/)
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.eot? (from 69662.getmariocoins.com/)
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.woff2 (from 69662.getmariocoins.com/)
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.woff (from 69662.getmariocoins.com/)
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.ttf (from 69662.getmariocoins.com/)
+23:19:58	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/fonts/glyphicons-halflings-regular.svg (from 69662.getmariocoins.com/)
+23:19:58	Warning: 	Retry after error -4 (Incorrect length (143493 Bytes, 289660 expected)) at link i.imgur.com/lL6t2BS.jpg (from 69662.getmariocoins.com/)
+23:20:42	Warning: 	Retry after error -4 (Incorrect length (69723 Bytes, 84380 expected)) at link ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js (from 69662.getmariocoins.com/)
+23:20:42	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/a (from 69662.getmariocoins.com/)
+23:20:42	Error: 	"Not Found" (404) at link 69662.getmariocoins.com/this.isAbsolute( (from 69662.getmariocoins.com/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 53 seconds : 31 links scanned, 19 files written (2912187 bytes overall) [2592538 bytes received at 22942 bytes/sec], 539310 bytes transferred using HTTP compression in 11 files, ratio 22%, 2.2 requests per connection
+(8 errors, 2 warnings, 0 messages)
